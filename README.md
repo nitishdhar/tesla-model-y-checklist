@@ -27,35 +27,40 @@ location and any personal details or requests are lost in the handoff.
 
 ### Locked
 
-- [ ] Vehicle VIN matches the assigned VIN
-- [ ] Color is as ordered
-- [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
-- [ ] A sleeve with *two* keys is provided
-- [ ] Check the head light fit
-- [ ] Inspect the paint around intake vents on the front bumper
-- [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
-- [ ] Make sure the hood sits flush with the quarter panels and frunk
-- [ ] Inspect that the windshield isn't installed shifted (the gaps between the glass and A pillar on either side
+- [x] Vehicle VIN matches the assigned VIN
+- [x] Color is as ordered
+- [ ] Check - Back side under trunk door, sticky gum stuff needs fixing
+- [x] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
+- [x] A sleeve with *two* keys is provided
+- [x] Check the head light fit
+- [x] Inspect the paint around intake vents on the front bumper
+- [x] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
+- [x] Make sure the hood sits flush with the quarter panels and frunk
+- [x] Inspect that the windshield isn't installed shifted (the gaps between the glass and A pillar on either side
 should be approximately equal). An improperly installed windshield causes significant wind noise at highway speeds.
-- [ ] Check for uneven/wide panel gaps and that panels are flush to car
+- [x] Check for uneven/wide panel gaps and that panels are flush to car
 - [ ] Check that the trim along the bottom of the sides of the vehicle are flush with the bottom of the doors
-- [ ] Check for trim stains
-- [ ] Check all 4 door levers
-- [ ] Check all wheels, ensure they are not scratched
-- [ ] Check all wheels, ensure there is nothing lodged in the tread (screws, nails, debris, etc.)
-- [ ] Confirm all 4 hubcaps are present and properly attached
-- [ ] Check for dings on pillars
+- [ ] Check - Bottom trims are uneven popping out
+- [x] Check for trim stains
+- [x] Check all 4 door levers
+- [x] Check all wheels, ensure they are not scratched
+- [x] Check all wheels, ensure there is nothing lodged in the tread (screws, nails, debris, etc.)
+- [x] Confirm all 4 hubcaps are present and properly attached
+- [x] Check for dings on pillars
 - [ ] Inspect the paint on the outside and the door jams, ensure panel corners do not have chips
-- [ ] Check for damage to black rocker panels
+- [ ] Check - Driver rear sice under charging port small paint scratch
+- [ ] Check - front bonnet passenger side paint scratch 
+- [x] Check for damage to black rocker panels
 - [ ] Check the tail light fit
+- [ ] Check - Double check, not too much
 > * __Photo:__ [tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
 > * __Fix:__ not yet available
-- [ ] Check charging port fit (driver side)
-- [ ] Inspect the tail lights for condensation
-- [ ] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
+- [x] Check charging port fit (driver side)
+- [x] Inspect the tail lights for condensation
+- [x] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
 > * __Photo:__ [undercarriage screw found sticking out, not fully tightened](https://imgur.com/TozVn9I)
 > * __Fix:__ requires a 10mm wrench; should you spot anything that needs attention ask the SC staff to inspect all screws and clips (they should've done it already) 
-- [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
+- [x] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
 pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
@@ -64,41 +69,43 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 ### Unlocked
 
 - [ ] Turn on the lights on the car including: fog lights, head lights, tail lights, reverse light, brake, signal lights (head light signal and side signal lights)
-- [ ] Check that wipers function correctly and look for potential wiper dings on hood
-- [ ] Inspect every glass and make sure there are no scratches or cracks 
+- [x] Check that wipers function correctly and look for potential wiper dings on hood
+- [x] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
-- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
-- [ ] Verify that the charge port opens and closes
-- [ ] Verify that the rubber seal is properly attached to the bottom of all 4 doors.
+- [ ] Check - Rear passenger window top scratch
+- [x] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
+- [x] Verify that the charge port opens and closes
+- [x] Verify that the rubber seal is properly attached to the bottom of all 4 doors.
 > * __Photo:__ [rubber seal loose on driver door bottom](https://imgur.com/AodUDfg)
 > * __Fix:__ service center, replace rubber seal (Tesla calls it a "secondary seal")
 
 ## Interior
 
-- [ ] Inspect the screen for scratches
-- [ ] Inspect the center console scratches, dings, etc.
-- [ ] Inspect the dash for scratches
-- [ ] Verify that wireless charging works on both sides
+- [x] Inspect the screen for scratches
+- [x] Inspect the center console scratches, dings, etc.
+- [x] Inspect the dash for scratches
+- [x] Verify that wireless charging works on both sides
 - [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
-- [ ] Open and close the glovebox
-  - [ ] Make sure USB drive for Sentry Mode / Dashcam is present
-- [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
+- [x] Open and close the glovebox
+  - [x] Make sure USB drive for Sentry Mode / Dashcam is present
+- [x] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
-- [ ] Verify backup camera
-- [ ] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
+- [ ] Some noise when opening closing windows, probably expected amount.
+- [x] Verify backup camera
+- [x] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
 are no unexpected clicks, etc.
-- [ ] Fold mirrors
-- [ ] Check all interior lights, and that all reading lights turn on with a press
-- [ ] Check windshield all around
-- [ ] Inspect the headliner all around (no grease, damage or scuffs)
-- [ ] Inspect both coat hooks (should extend, retract and latch)
-- [ ] Inspect the steering wheel, check front & back for scratches or tears
-- [ ] Check that turn signal and drive selection stalks work and actuate smoothly
-- [ ] Check that the car can be put into reverse, neutral, park
-- [ ] Look for scratches on the passenger side door sill
-- [ ] Check seats for scuffs/damage/bad seams
-- [ ] Verify all front seat adjustments, including lumbar support
-- [ ] Confirm seat warmers work 
+- [x] Fold mirrors
+- [x] Check all interior lights, and that all reading lights turn on with a press
+- [x] Check windshield all around
+- [x] Inspect the headliner all around (no grease, damage or scuffs)
+- [x] Inspect both coat hooks (should extend, retract and latch)
+- [x] Inspect the steering wheel, check front & back for scratches or tears
+- [x] Check that turn signal and drive selection stalks work and actuate smoothly
+- [x] Check that the car can be put into reverse, neutral, park
+- [x] Look for scratches on the passenger side door sill
+- [x] Check seats for scuffs/damage/bad seams
+- [x] Verify all front seat adjustments, including lumbar support
+- [x] Confirm seat warmers work 
 - [ ] Verify third row seats work correctly if included in your order
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Confirm that back seats recline adjustment works correctly
